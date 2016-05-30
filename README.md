@@ -27,7 +27,7 @@ Interactive API Doc : http://docs.laraveldemo-mongo.apiary.io
 
 More cool & important stuff will be adding in next version
 
-[Note]
+### Note
 1. You need to install MongoDB server & make sure the service is running in your system before you use that script. (https://www.mongodb.com/)
 2. You need to install MongoDB php driver before run this script. (http://php.net/manual/en/mongo.installation.php)
 3. Make sure you change the Database name from .env & create the appropriate Database in MongoDB before use that script .
