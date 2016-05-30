@@ -1,0 +1,7 @@
+db.users.insert(
+   [
+     { name: "Niladri Dey", email: "niladridey933@gmail.com", password: "$2y$10$f//g/PX4eP7D4UEzvVq.L.nlyvR3DYwONyvZ47P9wCRgC2QORt.da", api_token: "Ak28OCJFgawryj1LoGm8WfBY1BMVk8awH5YpGSdgvOTcs5y3HJrpFb9fE3lA", address: "myaddress", remember_token:"", created_at:"2016-05-10 15:54:05" , updated_at: "2016-05-20 06:17:51"  },
+     { name: "Test Test", email: "niladridey9333@gmail.com", password: "$2y$10$kx/MytUwCeyAfOtb3aiSjeVc4pLLjh/mSHJ7VRM1iR7QSOUa/qv2m", api_token: "DUi9kkGfpyHY4wHPizcs6jidOR63EOZXlq5g0raH1ZV2CMXD6FsVyi1kKyIW", address: "Gm Lane", remember_token:"wdCJ6UTeDXrZPYxi713kvJ28Tl0s2GagACOO1JNLhTl4TPCKe548ijA6wYjn", created_at:"2015-05-10 15:54:05" , updated_at: "2016-05-20 06:17:51"  },
+     
+   ]
+)
